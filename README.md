@@ -1,4 +1,4 @@
-# Manutenzione-Core
+# Manager delle manutenzioni
 
 📌 Descrizione
 MaintenanceManager è un plugin per Minecraft 1.19.4 che ti permette di mettere il server in manutenzione, impedendo l’accesso ai giocatori non autorizzati e mostrando messaggi personalizzati.
