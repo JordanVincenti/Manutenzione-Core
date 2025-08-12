@@ -16,6 +16,7 @@ Puoi cambiare il messaggio di manutenzione in qualsiasi momento.
 Puoi vedere e gestire la lista dei giocatori autorizzati.
 
 💻 Comandi
+
 1️⃣ /maintenance on
 Attiva la modalità manutenzione.
 Permesso: maintenancemanager.toggle
