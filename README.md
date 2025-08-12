@@ -69,3 +69,31 @@ I comandi funzionano solo se hai i permessi giusti.
 Puoi dare i permessi con LuckPerms o un plugin simile.
 
 Se la manutenzione è attiva e non sei in whitelist, verrai espulso anche se sei già connesso.
+
+💸 Prezzo
+Plugin base: 5€
+Plugin base + modifiche: 7€
+Plugin completamente modificato: 10€
+
+⚠️ ATTENZIONE
+Le modifiche saranno apportate solo ed esclusivamente al plugin richiesto quindi se si richiedono delle modifiche al plugin X non si può richiedere anche di modificare plugin Y per quello va ripagata la modifica
+Inoltre  non si può richiedere di avere una modifica troppo eccessiva ad esempio trasformare il plugin X in un plugin Y
+
+⚕️ TOS
+Licenza e utilizzo
+Il plugin acquistato è concesso in licenza per uso personale o sul proprio server. Non puoi rivendere, condividere o distribuire il plugin senza il mio permesso scritto.
+
+Garanzia e supporto
+Il plugin è fornito “così com’è”, senza garanzie esplicite o implicite. Offro supporto tecnico limitato via [email/forum/discord], ma non garantisco la compatibilità con tutte le versioni di Minecraft o altri plugin.
+
+Aggiornamenti
+Gli aggiornamenti sono a mia discrezione e possono essere gratuiti o a pagamento. Non sono obbligato a rilasciare aggiornamenti o correzioni.
+
+Responsabilità
+Non sono responsabile per danni diretti o indiretti derivanti dall’uso del plugin, inclusi perdita di dati o malfunzionamenti del server.
+
+Restituzioni e rimborsi
+Non prevedo rimborsi dopo l’acquisto, salvo casi di plugin non funzionante e verificabile entro 7 giorni dall’acquisto.
+
+Modifiche ai termini
+Mi riservo il diritto di modificare questi termini in qualsiasi momento. L’uso continuato del plugin implica l’accettazione delle nuove condizioni.
