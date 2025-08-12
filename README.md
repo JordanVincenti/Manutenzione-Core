@@ -71,9 +71,9 @@ Puoi dare i permessi con LuckPerms o un plugin simile.
 Se la manutenzione è attiva e non sei in whitelist, verrai espulso anche se sei già connesso.
 
 💸 Prezzo
-Plugin base: 5€
-Plugin base + modifiche: 7€
-Plugin completamente modificato: 10€
+- Plugin base: 5€
+- Plugin base + modifiche: 7€
+- Plugin completamente modificato: 10€
 
 ⚠️ ATTENZIONE
 Le modifiche saranno apportate solo ed esclusivamente al plugin richiesto quindi se si richiedono delle modifiche al plugin X non si può richiedere anche di modificare plugin Y per quello va ripagata la modifica
