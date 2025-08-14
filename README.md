@@ -88,3 +88,5 @@ Non sono previsti rimborsi dopo l’acquisto, salvo casi di plugin non funzionan
 ### Modifiche ai termini
 Mi riservo il diritto di modificare questi termini in qualsiasi momento.  
 L’uso continuato del plugin implica l’accettazione delle nuove condizioni.
+
+### Per informazioni TG: @CotoneMoscato
